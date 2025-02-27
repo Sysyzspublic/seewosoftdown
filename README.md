@@ -36,7 +36,7 @@
   - [下拉屏幕](https://sysyzspublic.github.io/seewosoftdown/plugin/下拉屏幕.exe)
 - 会议
   - [会议套件](https://sysyzspublic.github.io/seewosoftdown/plugin/希沃白板会议套件.exe)
-  - [国家化配置](https://sysyzspublic.github.io/seewosoftdown/plugin/国际化配置.zip)
+  - [国际化](https://sysyzspublic.github.io/seewosoftdown/plugin/国际化配置.zip)
 - 课件制作
   - [形状支持图片背景](https://sysyzspublic.github.io/seewosoftdown/plugin/形状支持图片背景.exe)
   - [PPTX转换解除限制](https://sysyzspublic.github.io/seewosoftdown/plugin/PPTX转换解除限制.exe)
