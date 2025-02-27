@@ -9,7 +9,7 @@
 ## 目录
 - 【教学】
   - [官方教学软件](https://sysyzspublic.github.io/seewosoftdown/#%E5%AE%98%E6%96%B9%E6%95%99%E5%AD%A6%E8%BD%AF%E4%BB%B6)
-  - 希沃白板增强插件
+  - [希沃白板增强插件](https://sysyzspublic.github.io/seewosoftdown/#%E5%A2%9E%E5%BC%BA%E6%8F%92%E4%BB%B6)
 - 【修复】
   - 教学软件修复工具
   - 一体机异常修复工具
