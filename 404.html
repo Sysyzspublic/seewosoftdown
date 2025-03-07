@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title id="title">404</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<style>
+		body {
+			--theme_color: #2775b6;
+			--theme_color_light: #3e8fd1;
+			transition: 0.3s
+		}
+
+		.title {
+			font-size: 180px;
+			font-weight: 100;
+			margin-top: 200px;
+			color: var(--theme_color);
+			line-height: 180px
+		}
+
+		.main_box {
+			max-width: 100%;
+			margin-left: 15%;
+			overflow: hidden;
+			font-family: "PingFang SC", "Microsoft Yahei", Helvetica, Arial, sans-serif;
+			-webkit-user-select: none;
+			user-select: none
+		}
+
+		.line {
+			height: 10px;
+			color: var(--theme_color_light);
+			border-top: 5px solid;
+			width: 100px;
+			margin-top: 10px;
+			margin-left: 5px
+		}
+
+		.subtitle {
+			font-size: 24px;
+			margin-left: 4px;
+			font-weight: 700
+		}
+
+		.desc {
+			color: rgba(0, 0, 0, 0.666);
+			font-size: 16px;
+			margin-left: 10px
+		}
+
+		.btn {
+			display: inline-block;
+			margin-top: 50px;
+			padding: 12px 28px;
+			background-color: var(--theme_color);
+			border-radius: 6px;
+			color: white;
+			font-size: 18px;
+			text-decoration: none;
+			transition: .25s;
+			cursor: pointer;
+			margin-left: 4px
+		}
+
+		.btn:hover {
+			background-color: var(--theme_color_light)
+		}
+
+		.contat {
+			color: #000000
+		}
+
+		.return {
+			color: #ffffff;
+			text-decoration: none
+		}
+
+		@media (prefers-color-scheme:dark) {
+			body {
+				background: rgb(22, 22, 22);
+				color: white
+			}
+
+			.desc {
+				color: rgba(255, 255, 255, 0.666)
+			}
+
+			.contat {
+				color: #ffffff
+			}
+		}
+
+		@media screen and (max-width:700px) {
+			.title {
+				font-size: 120px;
+				line-height: 120px;
+				margin-top: 50px
+			}
+
+			.main_box {
+				margin-right: 5%;
+				margin-left: 5%
+			}
+		}
+
+		@media screen and (max-height:800px) {
+			.title {
+				font-size: 120px;
+				line-height: 120px;
+				margin-top: 50px
+			}
+
+			.main_box {
+				margin-right: 5%;
+				margin-left: 5%
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div class="main_box">
+		<div class="title">
+			404
+			<div class="line"></div>
+		</div>
+		<div class="subtitle" id="subtitle">
+			Not Found
+		</div>
+		<div class="desc" id="desc">
+			您遇到了404错误。它意味着您所访问的资源在服务器上不存在。<br>
+		</div>
+		<div class="btn" onclick="window.location.href='https\://sysyzspublic.github.io/seewosoftdown';">
+			<a href="https://sysyzspublic.github.io/seewosoftdown" class="return" id="link">返回</a>
+		</div>
+	</div>
+	<script>
+		//国际化
+		lang = navigator.language;
+		if (lang == "en" || lang.toLowerCase == "en-us") {
+			document.getElementById("desc").innerHTML =`
+                You encountered a 404 error. It means that the resource you are accessing does not exist on the server. <br>
+                document.getElementById("subtitle").innerHTML="Page Not Found";
+                document.title="404 Not Found";
+                document.getElementById("link").innerHTML="Back to home";
+            }
+	</script>
+</body>
+
+</html>
