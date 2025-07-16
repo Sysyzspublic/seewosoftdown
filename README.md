@@ -15,7 +15,7 @@
 ### 官方教学软件
 - [希沃白板5](https://easinote.seewo.com)
 - [希沃视频展台](https://e.seewo.com/product/EasiCamera)
-- [希沃课堂助手](https://e.seewo.com)
+- [希沃课堂助手](https://cstore-pub-cos-seewo-report-tx.seewo.com/seewo-report_uwixhykzhhulnhlwhpxmjzyzlzphihhh?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDJUXMxJRLzPaeMp20jDSTFl23pLcdPwDF%26q-sign-time%3D1741846751%3B2057206751%26q-key-time%3D1741846751%3B2057206751%26q-header-list%3Dhost%26q-url-param-list%3Dresponse-content-disposition%26q-signature%3D7c115f45f2c9d3c8728dcdb0e84610f9ab87a308&response-content-disposition=attachment%3Bfilename%3D%22SeewoIwbAssistant_0.0.3.1207.exe%22%3Bfilename%2A%3Dutf-8%27%27SeewoIwbAssistant_0.0.3.1207.exe)
 - [希沃易课堂](https://class.seewo.com)
 - [希沃白板全家桶](https://store-g1.seewo.com/seewo-report_8245cd791b3b4196acf61dbde713acf1?attname=WhiteBoardEasiSetup_1.1.0.102.exe)
 
